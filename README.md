@@ -151,8 +151,8 @@ Product Service 🛍️   <--->   Cart Service 🛒   <--->   Order Service 📦
 <h2>📞 Contact</h2>
 <p>If you have any questions or feedback, feel free to reach out:</p>
 <ul>
-  <li>📧 <strong>Email</strong>: your-email@example.com</li>
-  <li>📌 <strong>GitHub</strong>: <a href="https://github.com/your-profile">Your GitHub Profile</a></li>
+  <li>📧 <strong>Email</strong>: shreyabhardwaj0813@gmail.com</li>
+  <li>📌 <strong>GitHub</strong>: <a href="https://github.com/Shreya088">My GitHub Profile</a></li>
 </ul>
 
 
